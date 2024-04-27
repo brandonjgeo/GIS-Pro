@@ -12,7 +12,7 @@ Welcome to the GIS Pro repository! GIS Pro is an advanced Geographic Information
 
 ## Getting Started
 
-To begin using GIS Pro, visit the [OpenAI GPT Store](https://platform.openai.com/store/gpt) and search for "GIS Pro" or use this direct link: [GIS Pro](https://chat.openai.com/g/g-rBNN9ZZSy-gis-pro).
+To begin using GIS Pro, visit the [ChatGPT Store](https://chat.openai.com/gpts) and search for "GIS Pro" or use this direct link: [GIS Pro](https://chat.openai.com/g/g-rBNN9ZZSy-gis-pro).
 
 ## Contributing
 Contributions to GIS Pro are welcome! Please refer to the CONTRIBUTING.md for details on how to submit pull requests, report bugs, or suggest enhancements.
