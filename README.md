@@ -16,4 +16,4 @@ Welcome to the GIS Pro repository! GIS Pro is an advanced Geographic Information
 Contributions to GIS Pro are welcome! Please refer to the CONTRIBUTING.md for details on how to submit pull requests, report bugs, or suggest enhancements.
 
 ## Contact
-For any questions or feedback, please contact [Brandon George](github.com/brandonjgeo).
+For any questions or feedback, please contact [Brandon George](https://github.com/brandonjgeo).
