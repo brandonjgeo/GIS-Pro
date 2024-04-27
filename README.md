@@ -12,3 +12,6 @@ Welcome to the GIS Pro repository! GIS Pro is an advanced Geographic Information
 
 ## Getting Started
 
+## Contributing
+Contributions to GIS Pro are welcome! Please refer to the CONTRIBUTING.md for details on how to submit pull requests, report bugs, or suggest enhancements.
+
