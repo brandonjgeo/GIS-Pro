@@ -22,3 +22,6 @@ There are many ways to contribute to GIS Pro:
 
 ## Contact
 Feel free to contribute by reaching out to [Brandon George](https://www.github.com/brandonjgeo) as well.
+
+## PS
+Thank you to all those who've contributed already via the survey! 🙏
