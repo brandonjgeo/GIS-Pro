@@ -3,6 +3,7 @@
 ### Updated
 - Github repo links.
 - Conversation starters.
+- GPT description.
 
 ## [1.0.2] - 2024-05-18
 
@@ -12,7 +13,7 @@
 ## [1.0.1] - 2024-05-07
 
 ### Updated
-- Product description 
+- GPT description
 
 ### Added
 - Support for additional programming libraries, enhancing GIS functionality.
