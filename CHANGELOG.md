@@ -1,7 +1,13 @@
+## [1.0.3] - 2024-06-18
+
+### Updated
+- Github repo links.
+- Conversation starters.
+
 ## [1.0.2] - 2024-05-18
 
 ### Added
-- Added easter egg. ;)
+- Added fun easter egg. 
 
 ## [1.0.1] - 2024-05-07
 
