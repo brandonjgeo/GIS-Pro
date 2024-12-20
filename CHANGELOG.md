@@ -1,3 +1,11 @@
+## [1.0.4] - 2024-12-20
+
+### Updated
+- Addressed user-reported annoyance by reducing text after each query.
+
+### NOTE
+- If users report updated text is still an annoyance, will in remove for an alternative.    
+  
 ## [1.0.3] - 2024-06-18
 
 ### Updated
@@ -50,4 +58,4 @@
 
 ## [Unreleased]
 
-- Potential features and improvements that are being considered or developed for future releases.
+- Potential features and improvements that are being considered or developed for future releases. 
