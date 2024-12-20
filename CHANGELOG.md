@@ -4,7 +4,7 @@
 - Addressed user-reported annoyance by reducing text after each query.
 
 ### NOTE
-- If users report updated text is still an annoyance, will in remove for an alternative.    
+- If users report updated text is still an annoyance, will remove for an alternative.    
   
 ## [1.0.3] - 2024-06-18
 
